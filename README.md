@@ -2,6 +2,9 @@
 ### [Download](https://docs.google.com/uc?export=download&id=1ZieViQP4VvauaRDdBptAJ6RNXlj8Ydk2) 
 
 # Images
+<p>
+  <img width="200" height="500" src="https://user-images.githubusercontent.com/66572282/120487005-33d45000-c3d3-11eb-815f-509c6e02ae16.jpg">
+  </p>
 ![Screenshot_20210602_182133_com example joystick](https://user-images.githubusercontent.com/66572282/120487005-33d45000-c3d3-11eb-815f-509c6e02ae16.jpg)
 In the image below you have to enter the IP adress of Network connected to Hardware & Smartphone
 https://user-images.githubusercontent.com/66572282/120487027-38990400-c3d3-11eb-81ee-ce0be69448d7.jpg
